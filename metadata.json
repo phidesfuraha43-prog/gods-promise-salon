@@ -1,0 +1,6 @@
+{
+  "name": "God's Promise Salon",
+  "description": "A luxurious and welcoming beauty salon in Magongo Jua Kali Stage specializing in professional hair braiding, trendy hairstyles, eyebrow tinting, and toenail care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
